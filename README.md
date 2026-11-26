@@ -2,7 +2,7 @@
 Open a terminal in the project directory:
 
 ```bash
-cd C:\xampp\htdocs\travel
+cd C:\xampp\htdocs\travel-reservation-system
 ```
 
 Start the PHP development server:
